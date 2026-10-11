@@ -1,0 +1,12 @@
+{
+  "name": "crouan244-docker-network",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test server.test.cjs"
+  },
+  "dependencies": {
+    "pg": "8.16.3"
+  }
+}
